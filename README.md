@@ -1,9 +1,5 @@
-# Resource_Papers_Dev
-
-Collection of ACL 2024 Best Resource Papers
-
-## ACL 2024 Best Resource Papers
-
-- Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research -- https://github.com/allenai/dolma
-- WildChat: 1M ChatGPT Interaction Logs in the Wild -- https://github.com/allenai/WildChat
-- AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents -- https://github.com/StonyBrookNLP/appworld
+- Latxa: An Open Language Model and Evaluation Suite for Basque -- https://github.com/hitz-zentroa/latxa
+- Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research -- https://github.com/hitz-zentroa/latxa-instruct
+- AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents -- https://github.com/hitz-zentroa/latxa
+- GAO-BOG-RAG: Asistente conversacional basado en RAG y Latxa para consultar el Boletín Oficial de Gipuzkoa (BOG) -- https://github.com/lksnext-gobtech/GAO-BOG-RAG
+- CheckeApp: Empowering people with verified truth — developed within the ILENIA project. -- https://github.com/checkeapp-group/CheckeApp
